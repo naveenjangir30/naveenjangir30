@@ -10,7 +10,7 @@
 <h3 align="left">🌐 Socials:</h3>
 <p align="left">
 <a href="https://twitter.com/naveen_kumar178" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="naveen_kumar178" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/naveen-kumar-634b03261" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/naveen-kumar-634b03261/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/Naveen-jangir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/naveen-kumar-634b03261/" height="30" width="40" /></a>
 <a href="https://instagram.com/naveenjangir178" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naveenjangir178" height="30" width="40" /></a>
 </p>
 
